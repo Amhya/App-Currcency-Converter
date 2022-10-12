@@ -2,7 +2,7 @@
 Currency Converter App
 
 Member:
-Rupert Caingal
-CHristian Joy Salamant
-Ernesto Esguerra
+Rupert Caingal,
+CHristian Joy Salamant,
+Ernesto Esguerra,
 Jimwell Seminiano
