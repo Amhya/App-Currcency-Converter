@@ -1,4 +1,4 @@
-# ITE-301-App-DevelopmentProject
+# ITE-301-App-Development_MiniProject
 Currency Converter App
 
 Member:
