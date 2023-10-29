@@ -1,8 +1,4 @@
-# ITE-301-App-Development_MiniProject
-Currency Converter App
+# Currency Converter App
 
-Member:
-Rupert Caingal,
-CHristian Joy Salamant,
-Ernesto Esguerra,
-Jimwell Seminiano
+An mobile application that use api that you can use to know the
+equivalent of currency in the world
